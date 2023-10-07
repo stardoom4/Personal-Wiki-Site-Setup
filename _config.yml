@@ -1,4 +1,4 @@
-name: Personal Wiki Setup
+name: Celestial Mind
 permalink: /:title
 
 markdown: kramdown
@@ -11,7 +11,7 @@ defaults:
     scope:
       path: ""
     values:
-      twitter_username: "your username"
+      twitter_username: "garuda_4244"
       ga_id: "Your google analytics id"
     scope:
       path: "wiki/" # an empty string here means all files in the project
